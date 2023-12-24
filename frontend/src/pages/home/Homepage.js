@@ -5,6 +5,7 @@ import Stats from '../../components/Stats'
 import Footer from '../../components/Footer'
 import Tasks from '../../components/Tasks'
 import Activevolunteers from '../../components/Activevolunteers'
+import OurTeam from '../../components/OurTeam'
 
 const Homepage = () => {
   return (
@@ -14,6 +15,7 @@ const Homepage = () => {
       <Stats/>
       <Tasks/>
       <Activevolunteers/>
+      <OurTeam/>
       <Footer/>
     </>
   )
