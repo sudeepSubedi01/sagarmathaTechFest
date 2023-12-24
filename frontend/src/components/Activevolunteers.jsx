@@ -33,72 +33,12 @@ const Activevolunteers = () => {
         <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
           <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/avatar.jpg"/>
           <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Oskar Blinde</h2>
-            <p class="text-gray-500">Dhangadhi</p>
+            <h2 class="text-gray-900 title-font font-medium">Henry Letham</h2>
+            <p class="text-gray-500">Pokhara</p>
             <p class="text-gray-500">Contact: 98432432788</p>
           </div>
         </div>
-      </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/avatar.jpg"/>
-          <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">John Doe</h2>
-            <p class="text-gray-500">Jajarkot</p>
-            <p class="text-gray-500">Contact: 98432432788</p>
-          </div>
-        </div>
-      </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/avatar.jpg"/>
-          <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Martin Eden</h2>
-            <p class="text-gray-500">Bajhang</p>
-            <p class="text-gray-500">Contact: 98432432788</p>
-          </div>
-        </div>
-      </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/avatar.jpg"/>
-          <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Boris Kitua</h2>
-            <p class="text-gray-500">Dhanusa</p>
-            <p class="text-gray-500">Contact: 98432432788</p>
-          </div>
-        </div>
-      </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/avatar.jpg"/>
-          <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Atticus Finch</h2>
-            <p class="text-gray-500">Rukum</p>
-            <p class="text-gray-500">Contact: 98432432788</p>
-          </div>
-        </div>
-      </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/avatar.jpg"/>
-          <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Alper Kamu</h2>
-            <p class="text-gray-500">Salyan</p>
-            <p class="text-gray-500">Contact: 98432432788</p>
-          </div>
-        </div>
-      </div>
-      <div class="p-2 lg:w-1/3 md:w-1/2 w-full">
-        <div class="h-full flex items-center border-gray-200 border p-4 rounded-lg">
-          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="/avatar.jpg"/>
-          <div class="flex-grow">
-            <h2 class="text-gray-900 title-font font-medium">Rodrigo Monchi</h2>
-            <p class="text-gray-500">Jhapa</p>
-            <p class="text-gray-500">Contact: 98432432788</p>
-          </div>
-        </div>
-      </div>
+      </div>     
     </div>
   </div>
 </section>
