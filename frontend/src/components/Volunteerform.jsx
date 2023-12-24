@@ -82,7 +82,7 @@ const Volunteerform = () => {
 
     try {
       setFormLoading(true);
-      const { data } = await axios.post("/api/volunteers", volunteerData);
+      const { data } = await axios.post("http://localhost:5000/api/volunteers", volunteerData);
       setVolunteerData({
         firstName: "",
         lastName: "",

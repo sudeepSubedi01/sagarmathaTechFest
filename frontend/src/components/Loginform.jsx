@@ -16,7 +16,7 @@ const Loginform = () => {
     if(!credentials.email || !credentials.password) return
     try {
       setLoading(true);
-      const { data } = await axios.post("/api/volunteers/login", credentials);
+      const { data } = await axios.post("http://localhost:5000/api/volunteers/login", credentials);
       setLoading(false);
       if (data) {
         localStorage.setItem("userInfo", JSON.stringify(data));
