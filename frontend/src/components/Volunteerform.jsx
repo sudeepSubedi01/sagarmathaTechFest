@@ -185,9 +185,6 @@ const Volunteerform = () => {
                   </label>
                   <div className="mt-2">
                     <fieldset data-role="controlgroup">
-                      <label className="mx-2" htmlFor="male">
-                        Male
-                      </label>
                       <input
                         value={"male"}
                         type="radio"
@@ -203,9 +200,9 @@ const Volunteerform = () => {
                           })
                         }
                       />
-                      <label className="mx-2" htmlFor="female">
-                        Female
-                      </label>
+                          <label className="mx-2" htmlFor="male">
+                            Male
+                          </label>
                       <input
                         value={"female"}
                         type="radio"
@@ -219,9 +216,9 @@ const Volunteerform = () => {
                           })
                         }
                       />
-                      <label className="mx-2" htmlFor="female">
-                        Other
-                      </label>
+                          <label className="mx-2" htmlFor="female">
+                            Female
+                          </label>
                       <input
                         value={"other"}
                         type="radio"
@@ -235,6 +232,9 @@ const Volunteerform = () => {
                           })
                         }
                       />
+                          <label className="mx-2" htmlFor="female">
+                            Other
+                          </label>
                     </fieldset>
                   </div>
                 </div>
